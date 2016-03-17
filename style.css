@@ -1,0 +1,57 @@
+body {
+    color: black; background-color: white;
+    margin: 0; padding: 1em 0;
+    text-align: center;  /* Zentrierung im Internet Explorer */
+    background-color: #fff;
+     font-family: Calibri,Helvetica,Arial,sans-serif;
+}
+
+
+    
+  
+
+#Seite {
+    text-align: left;    /* Seiteninhalt wieder links ausrichten */
+    margin: 0 auto;      /* standardkonforme horizontale Zentrierung */
+    width: 800px;
+    padding: 0em;
+  }
+  
+#Seite  h1{
+	font-family: Garamond,Times,serif;
+	font-size:180px
+}
+#Seite a {
+	text-decoration: none;
+    font-size:9px;
+  }
+#Seite a:link {
+    color: #666; 
+  }
+#Seite a:visited {
+    color: #666; 
+  }  
+#Seite a:hover {
+    color: #666;
+  }
+#Seite a:active {
+    color: #666;
+  }
+#footer{
+	text-align: center;
+	margin-top:5em;
+	font-size:9px;
+	color: #666;
+  }
+#footer a{
+	text-decoration: none;
+}
+#footer a:link{
+	color: #666;
+}
+#footer a:visited{
+	color:#666;
+}
+#footer a:hover{
+	color:black;
+}
